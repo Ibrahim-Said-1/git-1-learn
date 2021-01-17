@@ -15,6 +15,13 @@ learning commands of git
 
 ***very important***
 
+> pardon text
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+
+@Ibrahim what do you think about it
+
 
 
 
